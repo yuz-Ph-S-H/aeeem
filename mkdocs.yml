@@ -1,0 +1,6 @@
+site_name: 我的第一页
+theme: 
+  name: material
+nav:
+  - MainPage: index.md
+  - SecondPage: second.md
